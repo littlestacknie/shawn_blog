@@ -1,1 +1,3 @@
-export { default as Foo } from './Foo';
+import Foo from './Foo';
+import Earth from './Earth';
+export { Foo, Earth };

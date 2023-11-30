@@ -9,6 +9,9 @@ nav:
 Demo:
 
 ```tsx
+/**
+ * inline: true
+ */
 import React from 'react';
 import { Foo } from 'shawn_blog';
 
