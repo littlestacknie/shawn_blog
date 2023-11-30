@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "dumi-template",
+  "name": "shawn_blog",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
