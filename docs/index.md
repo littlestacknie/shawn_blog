@@ -1,11 +1,11 @@
 ---
-title: dumi - A doc tool can assist you to develop libraries & write docs.
+title: this is my blog.
 order: 10
 hero:
-  title: dumi
-  desc: 📖 A doc tool can assist you to develop libraries & write docs.
+  title: shawn's blog
+  desc: 📖 A doc help me accumulation & advance.
   actions:
-    - text: Getting Started
+    - text: Show some interesting
       link: /components/foo
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
